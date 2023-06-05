@@ -1,0 +1,6 @@
+﻿  Lab1.cpp
+C:\Users\Asus\Desktop\Основы программирования\Lab1\Lab1\Lab1.cpp(22,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Desktop\Основы программирования\Lab1\Lab1\Lab1.cpp(39,50): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Desktop\Основы программирования\Lab1\Lab1\Lab1.cpp(39,24): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Asus\Desktop\Основы программирования\Lab1\Lab1\Lab1.cpp(49,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Lab1.vcxproj -> C:\Users\Asus\Desktop\Основы программирования\Lab1\x64\Debug\Lab1.exe
